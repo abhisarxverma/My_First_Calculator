@@ -7,7 +7,7 @@
 ## 📸 Screenshot
 
 <!-- Paste your screenshot in this repo and link it here -->
-![Calculator Screenshot](Screenshot 2024-11-29 165744.png)
+![Calculator Screenshot](calculator_screenshot.png)
 
 ---
 
