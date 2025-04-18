@@ -7,7 +7,7 @@
 ## 📸 Screenshot
 
 <!-- Paste your screenshot in this repo and link it here -->
-![Calculator Screenshot](images/calculator_screenshot.png)
+![Calculator Screenshot](Screenshot 2024-11-29 165744.png)
 
 ---
 
@@ -30,5 +30,4 @@
 
 ---
 
-## 📂 Project Structure
 
